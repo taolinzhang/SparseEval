@@ -1,4 +1,4 @@
-<h1 align="center">SparseEval: Efficient Evaluation of Large Language Models by Sparse Optimization (ICLR2026)</h1>
+<h1 align="center">[ICLR2026] SparseEval: Efficient Evaluation of Large Language Models by Sparse Optimization</h1>
 
 <p align="center">
 <a href="https://arxiv.org/abs/2602.07909"><img src="https://img.shields.io/badge/arXiv-2602.07909-b31b1b.svg" alt="arXiv"></a>
