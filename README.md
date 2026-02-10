@@ -44,7 +44,7 @@ Our analysis of model-item performance matrices reveals distinct clustering patt
 </p>
 
 ### Performance Comparison
-SparseEval consistently outperforms traditional baseline methods (such as Random Sampling and K-means) in terms of accuracy-efficiency tradeoffs. As shown in the figure below, our method achieves superior performance across multiple metrics.
+SparseEval consistently outperforms traditional baseline methods in terms of accuracy-efficiency tradeoffs. As shown in the figure below, our method achieves superior performance across multiple metrics.
 
 <p align="center">
   <img src="assets/results.png" width="98%">
@@ -106,17 +106,6 @@ Selects representative samples and uses cluster sizes as weights.
 ```bash
 bash SparseEval/run/gd_cluster_anchor_points.sh <dataset_name> <num_anchors>
 ```
-
-**3. K-means Clustering**
-```bash
-bash SparseEval/run/gd_cluster_kmeans.sh <dataset_name> <num_anchors>
-```
-
-**4. Random Sampling**
-```bash
-bash SparseEval/run/gd_cluster_random.sh <dataset_name> <num_anchors>
-```
-Results (MAE, Kendall’s $\tau$) are saved in the `result_data/` directory.
 
 ### Viewing Results
 You can view the aggregated results (Error and Tau) using the provided statistics script:
