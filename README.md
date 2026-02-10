@@ -1,8 +1,16 @@
-# SparseEval: Efficient Evaluation of Large Language Models by Sparse Optimization (ICLR2026)
+<h1 align="center">SparseEval: Efficient Evaluation of Large Language Models by Sparse Optimization (ICLR2026)</h1>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2602.07909-b31b1b.svg)](https://arxiv.org/abs/2602.07909) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SparseEval__preprocess__data-blue)](https://huggingface.co/datasets/iridescentttt/SparseEval_preprocess_data)
+<p align="center">
+<a href="https://arxiv.org/abs/2602.07909"><img src="https://img.shields.io/badge/arXiv-2602.07909-b31b1b.svg" alt="arXiv"></a>
+<a href="https://huggingface.co/datasets/iridescentttt/SparseEval_preprocess_data"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SparseEval__preprocess__data-blue" alt="Hugging Face"></a>
+</p>
 
-[📖 Introduction](#-introduction) • [📊 Main Results](#-main-results) • [🚀 Getting Started](#-getting-started) • [📜 Citation](#-citation)
+<p align="center">
+<a href="#-introduction">📖 Introduction</a> • 
+<a href="#-main-results">📊 Main Results</a> • 
+<a href="#-getting-started">🚀 Getting Started</a> • 
+<a href="#-citation">📜 Citation</a>
+</p>
 
 ## 📖 Introduction
 
